@@ -1,0 +1,149 @@
+header {
+    background-color: #ededed;
+}
+
+
+.linkBox {
+    text-align: center;
+    display: inline;
+    width: 90px;
+    float: left;
+    border: none;
+    background-color: rgb(213, 213, 228);
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.link {
+    text-align: center;
+    margin-top: 30px;
+    width: 20px;
+}
+
+
+.heading {
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.heading img {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.text1 {
+    margin-left: 70px;
+    padding-top: 50px;
+    text-align: center;
+    width: 300px;
+    height: 60px;
+    margin-top: -100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+.text2 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.paragraph {
+    margin: 8px;
+    font-size: 18px;
+    word-spacing: 1px;
+}
+mark {
+    background-color: #ededed;
+    font-size: medium;
+}
+
+.btn1 {
+    background-color:  #d64078;
+    margin-left: 600px;
+    margin-top: 20px;
+    border: 0;
+    width: 140px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 10px;
+    text-shadow: #b03060;
+    box-shadow: 4px 4px 4px  #b03060;
+    }
+    .btn1-text{
+        color: white;
+        text-decoration: none;
+        text-shadow: #ededed;
+        /* font-size: medium; */
+    }
+    .pageNumber{
+        text-align: center;
+    }
+
+    footer {
+        background-color: #ededed;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .foot-btn1{
+        width: 80px;
+        height: 20px;
+        text-decoration: none;
+        color: white;
+        background-color: black;
+        margin-right: 20px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .icon1{
+        color: white;
+        margin-right: 10px;
+    }
+    .link1{
+        color: white;
+        text-decoration: none;
+    }
+    
+    .foot-btn2 {
+        width: 100px;
+        height: 20px;
+        /* text-decoration: none; */
+        background-color: rgb(95, 123, 212);
+        border: none;
+        margin-right: 40px;
+        border-radius: 3px;
+        margin-top: 20px;
+    }
+    .icon2{
+        color: white;
+        margin-right: 10px;
+    }
+    .link2{
+        color: white;
+        text-decoration: none;
+    }
+
+    .foot-btn3{
+        height: 20px;
+        width: 100px;
+        background-color: black;
+        border-inline-end-color: white;
+        border-width: 2px;
+        margin-top: 20px;
+
+    }
+    .icon3 {
+        /* color: white; */
+        background-color: grey;
+        margin-right: 15px;
+    }
+    .link3{
+        color: white;
+        text-decoration: none;
+        margin-right: 25px;
+        font-size: 10px;
+    }
+
